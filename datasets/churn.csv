@@ -1,4 +1,4 @@
-Names,Age,Total_Purchase,Account_Manager,Years,Num_Sites,Churn
+names,age,total_purchase,account_manager,years,num_sites,churn
 Cameron Williams,42.0,11066.8,0,7.22,8.0,1
 Kevin Mueller,41.0,11916.22,0,6.5,11.0,1
 Eric Lozano,38.0,12884.75,0,6.67,12.0,1
